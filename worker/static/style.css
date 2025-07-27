@@ -1,0 +1,16 @@
+/* Custom styles for ResumeCraft AI */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#resumeForm input, #resumeForm textarea {
+    outline: none;
+}
+
+#resumeForm button:hover {
+    cursor: pointer;
+}
+
+#resumeOutput {
+    display: none;
+}
